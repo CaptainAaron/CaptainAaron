@@ -26,6 +26,5 @@
 <div>
 	<a href="https://twitter.com/Operator_Aaron">
 	<img src="https://abs.twimg.com/favicons/twitter.2.ico">
-	<a href="https://www.instagram.com/captainaaron_/"><img src="https://www.instagram.com/static/images/ico/favicon.ico/36b3ee2d91ed.ico"></a>
-</a>
+	<a href="https://www.facebook.com/profile.php?id=100016284162790"><img src="https://static.xx.fbcdn.net/rsrc.php/ye/r/Ta8_J_nYekI.ico"></a>
 </div>
