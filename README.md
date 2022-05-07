@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**CaptainAaron/CaptainAaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+		<img src="images/aaroncard.png">
+</p>
+<div align="center">
+  <a href="https://github.com/CaptainAaron/Projects">
+    <img src="https://raw.githubusercontent.com/CaptainAaron/CaptainAaron/87149fba226b159420bead8b5bc8389e215377e6/images/buttons/projects-click.svg">
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<div>
+  <h1>About me</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img height="50px" width="50px" src="https://raw.githubusercontent.com/CaptainAaron/CaptainAaron/main/images/aaronprofileicon.webp">
+</div>
+
+
+> Hello there!
+> I am Aaron and I was born in the year 2006,
+> I Code Applications, Tools and websites.
+> I am Part Of the **International Secret Intelligence Organization**
+> which is just a Fancy name for an Organization for Tech Geeks.
+
