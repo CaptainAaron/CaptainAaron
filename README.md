@@ -7,7 +7,7 @@
     <img src="https://raw.githubusercontent.com/CaptainAaron/CaptainAaron/87149fba226b159420bead8b5bc8389e215377e6/images/buttons/projects-click.svg">
   </a>
 </div>
-
+<br/>
 <div>
   <h1>About me</h1>
 
@@ -20,4 +20,12 @@
 > I Code Applications, Tools and websites.
 > I am Part Of the **International Secret Intelligence Organization**
 > which is just a Fancy name for an Organization for Tech Geeks.
+<br/>
+<h1>Social Media<h1>
 
+<div>
+	<a href="https://twitter.com/Operator_Aaron">
+	<img src="https://abs.twimg.com/favicons/twitter.2.ico">
+	<a href="https://www.instagram.com/captainaaron_/"><img src="https://www.instagram.com/static/images/ico/favicon.ico/36b3ee2d91ed.ico"></a>
+</a>
+</div>
