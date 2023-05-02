@@ -17,9 +17,8 @@
 
 > Hello there!
 > I am Aaron and I was born in the year 2006,
-> I Code Applications, Tools and websites.
-> I am Part Of the **International Secret Intelligence Organization**
-> which is just a Fancy name for an Organization for Tech Geeks.
+> I Code Applications, Tools, websites and inside of games.
+> I am Part Of the **RoyalCode group**
 <br/>
 <h1>Social Media<h1>
 
