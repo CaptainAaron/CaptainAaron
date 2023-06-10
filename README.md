@@ -4,7 +4,7 @@
 </p>
 <div align="center">
   <a href="https://captainaaron.github.io">
-    <img src="https://raw.githubusercontent.com/CaptainAaron/CaptainAaron/87149fba226b159420bead8b5bc8389e215377e6/images/buttons/website.svg">
+    <img src="https://raw.githubusercontent.com/CaptainAaron/CaptainAaron/87149fba226b159420bead8b5bc8389e215377e6/images/buttons/website-click.svg">
   </a>
 </div>
 <br/>
