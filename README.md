@@ -1,6 +1,6 @@
 
 <p align="center">
-		<img src="images/aaroncard.png">
+		<img src="images/aarondisplaycard.png">
 </p>
 <div align="center">
   <a href="https://github.com/CaptainAaron/Projects">
