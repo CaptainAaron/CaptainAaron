@@ -18,7 +18,7 @@
 > Hello there!
 > I am Aaron, born in 2006 Belgium,
 > I do full stack programming and game development.
-> May you have a great day and make sure to check out my website: [captainaaron.github.com](https://captainaaron.github.com/)
+> May you have a great day and make sure to check out my website: [captainaaron.github.io](https://captainaaron.github.io/)
 <br/>
 
 <div>
