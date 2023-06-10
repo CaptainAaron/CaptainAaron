@@ -16,14 +16,11 @@
 
 
 > Hello there!
-> I am Aaron and I was born in the year 2006,
-> I Code Applications, Tools, websites and inside of games.
-> I am Part Of the **RoyalCode group**
+> I am Aaron, born in 2006 Belgium,
+> I do full stack programming and game development.
+> May you have a great day and make sure to check out my website: [captainaaron.github.com](https://captainaaron.github.com/)
 <br/>
-<h1>Social Media<h1>
 
 <div>
-	<a href="https://twitter.com/Operator_Aaron">
-	<img src="https://abs.twimg.com/favicons/twitter.2.ico">
-	<a href="https://www.facebook.com/profile.php?id=100016284162790"><img src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico"></a>
+	
 </div>
