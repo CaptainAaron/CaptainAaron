@@ -4,14 +4,14 @@
 </p>
 <div align="center">
   <a href="https://captainaaron.github.io">
-    <img src="images/buttons/button_website.png">
+    <img height="40" src="images/buttons/button_website.png">
   </a>
 </div>
 <br/>
 <div>
   <h1>About me</h1>
 
-  <img src="https://raw.githubusercontent.com/CaptainAaron/CaptainAaron/main/images/aaronprofileicon.webp">
+  <img  width="40" height="40" src="https://raw.githubusercontent.com/CaptainAaron/CaptainAaron/main/images/aaronprofileicon.webp">
 </div>
 
 
